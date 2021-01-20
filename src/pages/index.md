@@ -112,7 +112,7 @@ seo:
     - name: 'og:type'
       value: website
     - name: 'og:title'
-      value: Stackbit Azimuth Theme asddsa
+      value: 'http://mysite.com/img/img.png'
     - name: 'og:description'
       value: The preview of the Azimuth theme ads
 template: landing
