@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Stackbit Azimuth Themesad
-  description: The preview of the Azimuth theme dsas2
+  description: The preview of the Azimuth theme dsas2asd
   robots:
     - index
     - follow
