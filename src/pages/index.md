@@ -114,6 +114,6 @@ seo:
     - name: 'og:title'
       value: Stackbit Azimuth Theme asddsa
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The preview of the Azimuth theme ads
 template: landing
 ---
