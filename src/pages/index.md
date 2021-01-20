@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Themesad
+  title: Stackbit Azimuth Themesad1
   description: The preview of the Azimuth theme dsas2asd
   robots:
     - index
