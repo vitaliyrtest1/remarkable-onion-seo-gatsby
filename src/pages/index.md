@@ -112,7 +112,7 @@ seo:
     - name: 'og:type'
       value: website
     - name: 'og:title'
-      value: 'http://mysite.com/img/img.png'
+      value: Test
     - name: 'og:description'
       value: The preview of the Azimuth theme ads
 template: landing
